@@ -18,19 +18,14 @@
                 6. Data Security (IAM)
          
 ## ARCHITECTURE & DESIGN:
-    Version - 1![ml ss-1](https://github.com/SurrajKumar2000/DB-PROJECT/assets/68986795/05754e92-23e1-4d09-9f69-c4f8c2601c65)
-![ml ss-2](https://github.com/SurrajKumar2000/DB-PROJECT/assets/68986795/aeb803b2-bdac-434c-986b-db5af0c1fab3)
+    Version - 1
+![ml ss-1](https://github.com/SurrajKumar2000/DB-PROJECT/assets/68986795/05754e92-23e1-4d09-9f69-c4f8c2601c65)
 
      Version - 2
 ![version 2](https://github.com/SurrajKumar2000/DB-PROJECT/assets/124347739/bbc2c8c6-5c7c-4287-848d-a1366ae4da17)
 
 
-## OUTPUT :
+## OUTPUT:
 
-![ml ss-1](https://github.com/SurrajKumar2000/DB-PROJECT/assets/68986795/13c7a272-267a-44d1-9af8-d5ed65581dab)
-![ml ss-2](https://github.com/SurrajKumar2000/DB-PROJECT/assets/68986795/616c24fd-7627-4c24-8a19-58fa3564f8af)
-
-
-
-
-                
+![ml ss-1](https://github.com/SurrajKumar2000/DB-PROJECT/assets/68986795/bdf840c5-62ae-482d-823e-6ef39e1021ae)
+![ml ss-2](https://github.com/SurrajKumar2000/DB-PROJECT/assets/68986795/aeb803b2-bdac-434c-986b-db5af0c1fab3)
