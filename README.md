@@ -19,7 +19,7 @@
          
 ## ARCHITECTURE & DESIGN:
     Version - 1
-![ml ss-1](https://github.com/SurrajKumar2000/DB-PROJECT/assets/68986795/05754e92-23e1-4d09-9f69-c4f8c2601c65)
+![overview-1](https://github.com/SurrajKumar2000/DB-PROJECT/assets/68986795/d8476acb-3f66-432e-8d62-64e71d9e37b7)
 
      Version - 2
 ![version 2](https://github.com/SurrajKumar2000/DB-PROJECT/assets/124347739/bbc2c8c6-5c7c-4287-848d-a1366ae4da17)
