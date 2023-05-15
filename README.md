@@ -2,6 +2,6 @@
 
 ## TEAM NAME : 
                Zillion Coderz
-## TEAM MENMBERS:
+## TEAM MEMBERS:
                 1. Surrajkumar Prabhu Venkatesh
                 2. Manoj Mahinish Rajaboina
