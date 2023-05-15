@@ -8,6 +8,7 @@
                 Email: surrajkumar2000@csu.fullerton.edu
                 2. Manoj Mahinish Rajaboina 
                 CWID: 885188847
+                Email: taffy.manojmahinish@csu.fullerton.edu
                 
 ## Functionalities:
                 1. Data Collection 
