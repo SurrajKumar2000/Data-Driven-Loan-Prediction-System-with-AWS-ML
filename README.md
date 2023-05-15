@@ -3,8 +3,12 @@
 ## TEAM NAME : 
                Zillion Coderz
 ## TEAM MEMBERS:
-                1. Surrajkumar Prabhu Venkatesh CWID: 885198499
-                2. Manoj Mahinish Rajaboina CWID:
+                1. Surrajkumar Prabhu Venkatesh 
+                CWID: 885198499
+                Email: surrajkumar2000@csu.fullerton.edu
+                2. Manoj Mahinish Rajaboina 
+                CWID:
+                
 ## Functionalities:
                 1. Data Collection 
                 2. Data Analysis
