@@ -27,9 +27,8 @@
 
 ## OUTPUT :
 
-  <img width="251" alt="Version 1 " src="https://github.com/SurrajKumar2000/DB-PROJECT/assets/124347739/9ca57d9a-24b9-42a3-b4ec-e158c718f7ed">
-![ml ss-2](https://github.com/SurrajKumar2000/DB-PROJECT/assets/68986795/a9e39803-144a-41ac-9c4d-706b2239ee11)
-![ml ss-1](https://github.com/SurrajKumar2000/DB-PROJECT/assets/68986795/84e5feb4-c6d5-49cf-8371-f262d2663af3)
+![ml ss-1](https://github.com/SurrajKumar2000/DB-PROJECT/assets/68986795/13c7a272-267a-44d1-9af8-d5ed65581dab)
+![ml ss-2](https://github.com/SurrajKumar2000/DB-PROJECT/assets/68986795/616c24fd-7627-4c24-8a19-58fa3564f8af)
 
 
 
