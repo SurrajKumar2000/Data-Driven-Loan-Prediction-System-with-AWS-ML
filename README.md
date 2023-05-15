@@ -13,7 +13,8 @@
                 5. Predictive Modeling
                 6. Data Security (IAM)
          
-## ![overview](https://github.com/SurrajKumar2000/DB-PROJECT/assets/68986795/3ed63d62-8f66-48c9-bc9a-23eba21895aa)
+## OVERVIEW:
+![overview](https://github.com/SurrajKumar2000/DB-PROJECT/assets/68986795/3ed63d62-8f66-48c9-bc9a-23eba21895aa)
 
 
                 
