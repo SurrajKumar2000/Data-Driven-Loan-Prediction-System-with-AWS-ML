@@ -19,8 +19,7 @@
          
 ## ARCHITECTURE & DESIGN:
     Version - 1
-
-
+<img width="251" alt="Version 1 " src="https://github.com/SurrajKumar2000/DB-PROJECT/assets/124347739/9ca57d9a-24b9-42a3-b4ec-e158c718f7ed">
     Version - 2
 ![overview](https://github.com/SurrajKumar2000/DB-PROJECT/assets/68986795/3ed63d62-8f66-48c9-bc9a-23eba21895aa)
 
